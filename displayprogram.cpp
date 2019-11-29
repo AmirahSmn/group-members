@@ -7,9 +7,6 @@ int main()
         cout<<"Name:- Tadiyos Seyoum endln";
         cout<<"Name:- yared haftamu endln";
             cout<<"Name:- Leul Niguse endln";
-
-    
-   
-
+        cout<<"Name:- NatinaelTesfaye endln";
     return 0;
 }
