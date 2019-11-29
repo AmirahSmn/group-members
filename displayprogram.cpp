@@ -4,10 +4,10 @@ int main()
 {
     cout << "Group 8!";
 
-    cout<<"Name:- Amirah Semman endln"; // those are the names of all the group members  
-        cout<<"Name:- Tadiyos Seyoum endln";
-        cout<<"Name:- yared haftamu endln";
-            cout<<"Name:- Leul Niguse endln";
-        cout<<"Name:- NatinaelTesfaye endln";
+    cout<<"Name:- Amirah Semman end\n"; // those are the names of all the group members  
+        cout<<"Name:- Tadiyos Seyoum end\n";
+        cout<<"Name:- yared haftamu end\n";
+            cout<<"Name:- Leul Niguse end\n";
+        cout<<"Name:- NatinaelTesfaye end\n";
     return 0;
 }
